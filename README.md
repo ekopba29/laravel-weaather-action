@@ -5,3 +5,4 @@ How to run :
 4. open http://localhost:8000/weather
 
 - this page limited, only Jakarta city.
+- Weather API by https://openweathermap.org/api
